@@ -1,2 +1,3 @@
 Cheking git repository
 new  changes
+test gitGUI
